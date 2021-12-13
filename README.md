@@ -13,7 +13,10 @@ test9
 =======
 test10
 test11
+<<<<<<< HEAD
 >>>>>>> 44cc67c (ADD test10)
 =======
 test10
 >>>>>>> 4412f61 (ADD test10)
+=======
+>>>>>>> bbd26e8 (ADD test11)
