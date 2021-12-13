@@ -1,0 +1,176 @@
+Index: .idea/inspectionProfiles/Project_Default.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/Project_Default.xml b/.idea/inspectionProfiles/Project_Default.xml
+new file mode 100644
+--- /dev/null	(date 1637322739782)
++++ b/.idea/inspectionProfiles/Project_Default.xml	(date 1637322739782)
+@@ -0,0 +1,36 @@
++<component name="InspectionProjectProfileManager">
++  <profile version="1.0">
++    <option name="myName" value="Project Default" />
++    <inspection_tool class="JavaDoc" enabled="true" level="WARNING" enabled_by_default="true">
++      <option name="TOP_LEVEL_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="INNER_CLASS_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="METHOD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="@return@param@throws or @exception" />
++        </value>
++      </option>
++      <option name="FIELD_OPTIONS">
++        <value>
++          <option name="ACCESS_JAVADOC_REQUIRED_FOR" value="none" />
++          <option name="REQUIRED_TAGS" value="" />
++        </value>
++      </option>
++      <option name="IGNORE_DEPRECATED" value="false" />
++      <option name="IGNORE_JAVADOC_PERIOD" value="true" />
++      <option name="IGNORE_DUPLICATED_THROWS" value="false" />
++      <option name="IGNORE_POINT_TO_ITSELF" value="false" />
++      <option name="myAdditionalJavadocTags" value="date" />
++    </inspection_tool>
++  </profile>
++</component>
+\ No newline at end of file
+Index: .idea/rebaseTest.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/rebaseTest.iml b/.idea/rebaseTest.iml
+new file mode 100644
+--- /dev/null	(date 1637322739801)
++++ b/.idea/rebaseTest.iml	(date 1637322739801)
+@@ -0,0 +1,9 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="JAVA_MODULE" version="4">
++  <component name="NewModuleRootManager" inherit-compiler-output="true">
++    <exclude-output />
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="inheritedJdk" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1637322739810)
++++ b/.idea/modules.xml	(date 1637322739810)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/rebaseTest.iml" filepath="$PROJECT_DIR$/.idea/rebaseTest.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1637322739820)
++++ b/.idea/vcs.xml	(date 1637322739820)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1637322739830)
++++ b/.idea/misc.xml	(date 1637322739830)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectRootManager">
++    <output url="file://$PROJECT_DIR$/out" />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/runConfigurations.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/runConfigurations.xml b/.idea/runConfigurations.xml
+new file mode 100644
+--- /dev/null	(date 1637322739841)
++++ b/.idea/runConfigurations.xml	(date 1637322739841)
+@@ -0,0 +1,10 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="RunConfigurationProducerService">
++    <option name="ignoredProducers">
++      <set>
++        <option value="com.android.tools.idea.compose.preview.runconfiguration.ComposePreviewRunConfigurationProducer" />
++      </set>
++    </option>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/thriftCompiler.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/thriftCompiler.xml b/.idea/thriftCompiler.xml
+new file mode 100644
+--- /dev/null	(date 1637322725517)
++++ b/.idea/thriftCompiler.xml	(date 1637322725517)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ThriftCompiler">
++    <compilers />
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1637322735571)
++++ b/.idea/.gitignore	(date 1637322735571)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
++# Editor-based HTTP Client requests
++/httpRequests/

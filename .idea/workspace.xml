@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76959357-5a01-44dc-b6f2-e16fa80a42d0" name="Changes" comment="ADD test11" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="218VVaSvqZpbvEoyjdwOngzGOcL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76959357-5a01-44dc-b6f2-e16fa80a42d0" name="Changes" comment="" />
+      <created>1637322728189</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637322728189</updated>
+      <workItem from="1637322732703" duration="813000" />
+      <workItem from="1639376572966" duration="1063000" />
+    </task>
+    <task id="LOCAL-00001" summary="ADD test2">
+      <created>1639376769700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639376769700</updated>
+    </task>
+    <task id="LOCAL-00002" summary="ADD test3">
+      <created>1639376783481</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1639376783481</updated>
+    </task>
+    <task id="LOCAL-00003" summary="ADD test4">
+      <created>1639376793273</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1639376793273</updated>
+    </task>
+    <task id="LOCAL-00004" summary="ADD test5">
+      <created>1639376811985</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1639376811985</updated>
+    </task>
+    <task id="LOCAL-00005" summary="ADD test6">
+      <created>1639377149584</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377149584</updated>
+    </task>
+    <task id="LOCAL-00006" summary="ADD test7">
+      <created>1639377172159</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377172159</updated>
+    </task>
+    <task id="LOCAL-00007" summary="ADD test8">
+      <created>1639377188220</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377188220</updated>
+    </task>
+    <task id="LOCAL-00008" summary="ADD test9">
+      <created>1639377386526</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377386526</updated>
+    </task>
+    <task id="LOCAL-00009" summary="ADD test10">
+      <created>1639377404860</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377404860</updated>
+    </task>
+    <task id="LOCAL-00010" summary="ADD test11">
+      <created>1639377415705</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1639377415705</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="ADD test2" />
+    <MESSAGE value="ADD test3" />
+    <MESSAGE value="ADD test4" />
+    <MESSAGE value="ADD test5" />
+    <MESSAGE value="ADD test6" />
+    <MESSAGE value="ADD test7" />
+    <MESSAGE value="ADD test8" />
+    <MESSAGE value="ADD test9" />
+    <MESSAGE value="ADD test10" />
+    <MESSAGE value="ADD test11" />
+    <option name="LAST_COMMIT_MESSAGE" value="ADD test11" />
+  </component>
+</project>
